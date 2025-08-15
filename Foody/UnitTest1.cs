@@ -16,9 +16,9 @@ namespace Foody
         [OneTimeSetUp]
         public void Setup()
         {
-            string token = GetJwtToken("thrtt2", "123456");
+ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ string token = GetJwtToken("thrtt2", "123456");
 
-            var options = new RestClientOptions(baseURL)
+ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ var options = new RestClientOptions(baseURL)
             {
                 Authenticator = new JwtAuthenticator(token)
             };
@@ -26,7 +26,7 @@ namespace Foody
             client = new RestClient(options);
         }
 
-        private string GetJwtToken(string username, string password)
+ï¿½ ï¿½ ï¿½ ï¿½ private string GetJwtToken(string username, string password)
         {
             var authClient = new RestClient(baseURL);
 
