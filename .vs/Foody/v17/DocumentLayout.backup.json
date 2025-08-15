@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|solutionrelative:foody\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|d:\\exam prep 2\\foody\\foody\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|solutionrelative:foody\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|d:\\exam prep 2\\foody\\foody\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|solutionrelative:foody\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|d:\\exam prep 2\\foody\\foody\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|solutionrelative:foody\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|d:\\exam prep 2\\foody\\foody\\foody.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FoodDTO.cs",
               "DocumentMoniker": "D:\\Exam Prep 2\\Foody\\Foody\\Models\\FoodDTO.cs",
               "RelativeDocumentMoniker": "Foody\\Models\\FoodDTO.cs",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ApiResponseDTO.cs",
               "DocumentMoniker": "D:\\Exam Prep 2\\Foody\\Foody\\Models\\ApiResponseDTO.cs",
               "RelativeDocumentMoniker": "Foody\\Models\\ApiResponseDTO.cs",
@@ -58,7 +58,8 @@
               "RelativeToolTip": "Foody\\Models\\ApiResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T18:57:52.114Z"
+              "WhenOpened": "2025-08-15T18:57:52.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,7 +81,7 @@
               "RelativeDocumentMoniker": "Foody\\UnitTest1.cs",
               "ToolTip": "D:\\Exam Prep 2\\Foody\\Foody\\UnitTest1.cs",
               "RelativeToolTip": "Foody\\UnitTest1.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwD0AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T18:54:12.604Z",
               "EditorCaption": ""

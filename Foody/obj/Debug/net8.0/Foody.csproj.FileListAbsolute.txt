@@ -98,3 +98,4 @@ D:\Exam Prep 2\Foody\Foody\obj\Debug\net8.0\refint\Foody.dll
 D:\Exam Prep 2\Foody\Foody\obj\Debug\net8.0\Foody.pdb
 D:\Exam Prep 2\Foody\Foody\obj\Debug\net8.0\Foody.genruntimeconfig.cache
 D:\Exam Prep 2\Foody\Foody\obj\Debug\net8.0\ref\Foody.dll
+D:\Exam Prep 2\Foody\Foody\obj\Debug\net8.0\Foody.sourcelink.json
