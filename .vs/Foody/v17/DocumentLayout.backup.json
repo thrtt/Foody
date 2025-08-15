@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Exam Prep 2\\Foody\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|d:\\exam prep 2\\foody\\foody\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|solutionrelative:foody\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|d:\\exam prep 2\\foody\\foody\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|solutionrelative:foody\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|d:\\exam prep 2\\foody\\foody\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|solutionrelative:foody\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|d:\\exam prep 2\\foody\\foody\\foody.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EC131DB-F0E2-4062-A8D1-E21B7E0B1881}|Foody\\Foody.csproj|solutionrelative:foody\\foody.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodDTO.cs",
+              "DocumentMoniker": "D:\\Exam Prep 2\\Foody\\Foody\\Models\\FoodDTO.cs",
+              "RelativeDocumentMoniker": "Foody\\Models\\FoodDTO.cs",
+              "ToolTip": "D:\\Exam Prep 2\\Foody\\Foody\\Models\\FoodDTO.cs",
+              "RelativeToolTip": "Foody\\Models\\FoodDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:58:40.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "D:\\Exam Prep 2\\Foody\\Foody\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "Foody\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "D:\\Exam Prep 2\\Foody\\Foody\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "Foody\\Models\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:57:52.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Foody.csproj",
+              "DocumentMoniker": "D:\\Exam Prep 2\\Foody\\Foody\\Foody.csproj",
+              "RelativeDocumentMoniker": "Foody\\Foody.csproj",
+              "ToolTip": "D:\\Exam Prep 2\\Foody\\Foody\\Foody.csproj",
+              "RelativeToolTip": "Foody\\Foody.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T18:56:48.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Exam Prep 2\\Foody\\Foody\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Foody\\UnitTest1.cs",
+              "ToolTip": "D:\\Exam Prep 2\\Foody\\Foody\\UnitTest1.cs",
+              "RelativeToolTip": "Foody\\UnitTest1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwD0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:54:12.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
